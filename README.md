@@ -38,7 +38,9 @@ Intermediate Level
 4. Create a Secure AES Encryption System with Key Derivation
 
     Objective: Learn about secure key generation using PBKDF2.
+    
     Task: Modify AESCipher to derive keys from a password using PBKDF2.
+    
     Requirements:
         Use Crypto.Protocol.KDF.PBKDF2 to generate a secure key.
         Allow the user to provide a password instead of a raw key.
